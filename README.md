@@ -29,5 +29,6 @@ Simulate the design using **Vivado 2024.1**:
 2. Run **Behavioral Simulation**.
 3. Observe waveforms and outputs in the simulation window.
 
+
 ## Author
 Aditya
