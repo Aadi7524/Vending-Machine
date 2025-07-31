@@ -1,0 +1,42 @@
+# Vivado-generated files and directories to ignore
+*.log
+*.jou
+*.str
+*.wdb
+*.xml
+*.xsim/
+*.cache/
+*.runs/
+*.sim/
+*.webtalk/
+*.hw/
+*.ip_user_files/
+*.data/
+
+# Bitstream and other build files
+*.bit
+*.bin
+*.elf
+*.pb
+
+# Temporary and backup files
+*.tmp
+*.backup
+*.orig
+*.vcd
+*.vvp
+simulate.log
+
+# Vivado project database
+*.Xil/
+vivado*.*.backup.jou
+vivado*.*.backup.log
+
+# Do not ignore source files
+!*.v
+!*.vh
+!*.vhd
+!*.xdc
+!*.tcl
+!*.xpr
+!*.xci
